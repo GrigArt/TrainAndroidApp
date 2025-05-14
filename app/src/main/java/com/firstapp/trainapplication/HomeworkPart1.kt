@@ -1,11 +1,9 @@
 package com.firstapp.trainapplication
 
-import kotlin.math.pow
-
 val months = arrayOf (
-"January", "February", "March", "April",
-"May", "June", "July", "August",
-"September", "October", "November", "December"
+    "January", "February", "March", "April",
+    "May", "June", "July", "August",
+    "September", "October", "November", "December"
 )
 val vowels = arrayOf('A', 'E', 'I', 'O', 'U', 'Y')
 var middleName: String? = "Pepper"
